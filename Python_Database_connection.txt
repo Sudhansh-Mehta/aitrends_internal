@@ -1,0 +1,3 @@
+This file serves as a documentation for the Database_Example1.py
+The code in Database_Example1.py demonstrates how coding in Python can be used to perform Databases operations leveraging the mysql.connector.
+
